@@ -1,0 +1,6 @@
+Project source files are in pdrm/src/rtl/proj1
+Top Module Name: or1200_mult_mac
+Source File List: or1200.v
+Optimization Metric: A*D*L
+Approximate Cell Count: 7940
+Sequential Cell Count: 406
