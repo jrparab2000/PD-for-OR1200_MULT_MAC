@@ -1,7 +1,7 @@
-ECE 720 Physical Design Reference Methodologies
+Physical Design
 ====================
 
-This repository contains physical design reference methodologies for ECE 720 - Electronic System Level and Physical Design.  These flows are adapted from the Design Compiler and IC Compiler 2 reference methodologies from Synopsys to use the Google/Skywater 130nm Open PDK on the NCSU ECE Linux system.
+These flows are adapted from the Design Compiler and IC Compiler 2 reference methodologies from Synopsys to use the Google/Skywater 130nm Open PDK on the NCSU ECE Linux system.
 
 ## Quick Start
 
